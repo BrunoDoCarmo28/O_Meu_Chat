@@ -3,6 +3,6 @@ pandas
 plotly
 scikit-learn
 openpyxl
-pip freeze > requirements.txt
 google-genai
 xlrd
+
